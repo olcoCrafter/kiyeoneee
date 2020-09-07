@@ -6,8 +6,8 @@
 
 * 💼 Doing Web Crawling
 * ⚙️ Using daily : `Java`
-* 🌱 I'm Currently learning `Vue.js` | `Javascript` | `HTML` | `CSS` | `DDD`
-* 💜 I am recently interested in removing legacy code.
+* 🌱 I'm Currently learning `Vue.js` | `Javascript` | `Spring` | `DDD`
+* 💜 I am recently interested in removing legacy code and creating a good development culture.
 
 <br>
 
