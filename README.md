@@ -2,11 +2,7 @@
 
 ## Hello there! I'm Kiyeon Kim. 👋
 
-### 👩🏻‍💻 Backend Developer based in Pangyo, Korea.
-
-* 💼 Doing Web Crawling
 * ⚙️ Using daily : `Java`
-* 🌱 I'm Currently learning `Vue.js` | `Javascript` | `Spring` | `DDD`
 * 💜 I am recently interested in removing legacy code and creating a good development culture.
 <br>
 
